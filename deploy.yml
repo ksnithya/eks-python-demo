@@ -14,4 +14,4 @@ spec:
     spec:
       containers:
         - name: python-app
-          image: 822626997628.dkr.ecr.ap-south-1.amazonaws.com/python-flask-demo:14 # {"$imagepolicy": "flux-system:python-demo-policy"}
+          image: 822626997628.dkr.ecr.ap-south-1.amazonaws.com/python-flask-demo:15 # {"$imagepolicy": "flux-system:python-demo-policy"}
